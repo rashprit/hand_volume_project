@@ -14,3 +14,11 @@
 /screenshot_1750652640.png
 /screenshot_1750652646.png
 /screenshot_1750652654.png
+venv/
+__pycache__/
+*.pyc
+*.pyd
+*.dll
+*.so
+*.exe
+*.log
