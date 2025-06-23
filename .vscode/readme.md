@@ -43,7 +43,7 @@ Implements gesture logic for mute, screenshot, and media controls
 bash
 Copy
 Edit
-git clone https://github.com/your-username/gesture-volume-controller.git
+git clone https://github.com/rashprit/gesture-volume-controller.git
 cd gesture-volume-controller
 2. Create a virtual environment (optional but recommended)
 bash
